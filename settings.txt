@@ -1,0 +1,4 @@
+DiskA /home/blyra/src/COMP-350/INDIV_ProjectA/src/diskc.img
+DiskC /home/blyra/src/COMP-350/INDIV_ProjectA/src/diskc.img 0 0 0 0
+ROM resource/bios.bin
+VideoROM resource/vgabios.bin
